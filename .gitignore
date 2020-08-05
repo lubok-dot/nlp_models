@@ -1,0 +1,4 @@
+imbd_logs/
+imbd_model/
+__pycache__/
+.ipynb_checkpoints/
